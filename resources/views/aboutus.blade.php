@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>welcome to kodeeo limited</h1> 
-  <a href="{{url('contactus')}}">ContactUs</a>
-  <a href="{{url('aboutus')}}">aboutus</a>
-
+    <h1>call us on 1323456</h1>
+    <a href="{{url('/')}}">homepage</a>
 </body>
 </html>

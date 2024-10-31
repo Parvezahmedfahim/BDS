@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>welcome to kodeeo limited</h1> 
-  <a href="{{url('contactus')}}">ContactUs</a>
-  <a href="{{url('aboutus')}}">aboutus</a>
-
+    <h1>My First Link</h1>
+    <a href="{{url('/')}}">Home Page</a>
 </body>
 </html>
